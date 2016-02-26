@@ -1,5 +1,10 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto+Mono:400,400italic,700,700italic);
 
+@font-face {
+    font-family: "stein";
+    src: url("stein.org") format("opentype");
+}
+
 html {
   font-family: "Roboto Mono", "Helvetica", sans-serif, "Arial", monospace;
   color: #EEE6C8;
@@ -43,7 +48,7 @@ html {
 }
 
 .wrapper h1 {
-  font-family: "Roboto Mono";
+  font-family: "stein";
   font-size: 40px;
   margin-top: 0;
   padding: 10px 20px 10px 20px;
@@ -59,12 +64,12 @@ a {
 }
 
 .prev {
-  font-family: "Roboto Mono";
+  font-family: "stein";
   font-size: 20px;
 }
 
 .next {
-  font-family: "Roboto Mono";
+  font-family: "stein";
   font-size: 20px;
   float: right;
 }
