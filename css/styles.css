@@ -2,7 +2,7 @@
 
 @font-face {
     font-family: "stein";
-    src: url("stein.org") format("opentype");
+    src: url("stein.otf") format("opentype");
 }
 
 html {
