@@ -63,6 +63,12 @@ a {
   color: inherit;
 }
 
+.sideitem {
+  font-family: "Roboto Mono";
+  font-size: 10px;
+  list-style-type: none;
+}
+
 .prev {
   font-family: "stein";
   font-size: 20px;
