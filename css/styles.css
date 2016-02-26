@@ -16,7 +16,7 @@
 html {
   font-family: "liberation", "Helvetica", sans-serif, "Arial", monospace;
   color: #EEE6C8;
-  background: #282828;
+  background: #1C1C1C;
 }
 
 .porter {
@@ -113,7 +113,7 @@ a {
 
 .post-link:hover {
   background: #EEE6C8;
-  color: #282828;
+  color: #1C1C1C;
 }
 
 .post-body {
