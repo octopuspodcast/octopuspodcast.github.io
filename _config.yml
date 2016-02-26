@@ -1,0 +1,6 @@
+pygments: true
+permalink: /:year/:month/:day/:title
+exclude: ['.git']
+name: "The Octopus"
+description: "The Octopus Podcast"
+url: http://octopuspodcast.github.io
