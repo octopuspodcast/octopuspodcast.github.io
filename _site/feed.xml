@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>The Octopus</title>
+    <link>http://octopuspodcast.github.io</link>
+    <language>en-us</language>
+    <itunes:subtitle>A podcast from KANM Student Radio</itunes:subtitle>
+    <itunes:author>KANM Student Radio</itunes:author>
+    <itunes:summary>A reporting show from KANM Student Radio at Texas A&amp;M University.</itunes:summary>
+    <itunes:owner>
+        <itunes:name>Davis Land</itunes:name>
+        <itunes:email>dland95@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="http://octopuspodcast.github.io/podcast_art.png"/>
+    <itunes:category text="Arts" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:copyright text="KANM Student Radio" />
+    <link>http://octopuspodcast.github.io</link>
+    
+        <item>
+          <title>The Octopus coming soon</title>
+          <itunes:author>Davis Land</itunes:author>
+          <itunes:summary>A reporting show from KANM Student Radio at Texas A&amp;M University.</itunes:summary>
+          <itunes:image href="http://octopuspodcast.github.io/podcast_art.png"/>
+          <enclosure url = "https://archive.org/download/channel_trailer_mixdown/ChannelTrailer_mixdown.mp3" length="3775002" type="audio/mpeg"></enclosure>
+          <pubDate>Mon, 15 Feb 2016 00:00:00 -0600</pubDate>
+          <itunes:duration>93.0</itunes:duration>
+        </item>
+    
+  </channel>
+</rss>
