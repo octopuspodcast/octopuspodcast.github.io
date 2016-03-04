@@ -7,7 +7,7 @@
 
 html {
   font-family: "Roboto Mono", "Helvetica", sans-serif, "Arial", monospace;
-  color: #EEE6C8;
+  color: #8FD8D6;
   background: #1C1C1C;
 }
 
@@ -87,7 +87,7 @@ a {
   text-decoration: none;
   max-width: 900px;
   padding: 10px 30px;
-  border: 2px dotted #EEE6C8;
+  border: 2px dotted #8FD8D6;
 }
 
 .post-link h1 {
@@ -110,7 +110,7 @@ a {
 }
 
 .post-link:hover {
-  background: #EEE6C8;
+  background: #8FD8D6;
   color: #1C1C1C;
 }
 
